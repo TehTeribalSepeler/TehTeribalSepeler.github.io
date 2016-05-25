@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Why sleep is the best thig ever
-email: kane.foreman@mgail.com
+title: Why sleep is the best thing ever
+email: kane.foreman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-      Sleep is amazing, but most people are in denial. learn why your favorite thing should be sleep
+      Sleep is amazing, but most people are in denial. Learn why your favorite thing should be sleep
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: kanejupiter
