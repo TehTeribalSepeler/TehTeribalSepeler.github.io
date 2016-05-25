@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
       Sleep is amazing, but most people are in denial. learn why your favorite thing should be sleep
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Kane Jupiter
+twitter_username: kanejupiter
 github_username:  TehTeribalSepeler
 
 # Build settings
