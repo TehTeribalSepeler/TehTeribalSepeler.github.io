@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sleep for your Mind"
-date:   2016-05-24 13:55:54 -0400
+date:   2016-05-23 13:55:54 -0400
 categories: Sleep
 ---
 Your mind needs sleep to function. Its has to have a time when the constant barrage of simulents. you would go insane 
